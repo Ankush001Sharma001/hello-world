@@ -17,7 +17,6 @@ Enter your name:
 <!-- Input type text for small texts, specify size -->
 <input type="text" name="UserName" size=35 maxlength=35 value="">
 <!--Adds spaces - remove and see what happens -->
-</br></br>
 Enter your department:
 <input type="text" name="Deptt" size=35 maxlength=35 value=""> </br> </br>
 Tell us a little about yourself:
@@ -46,7 +45,6 @@ What genre of movies do you like?
 <option value=4 >horror
 <option value=5 >biopic
 </select>
-</br></br>
 <!--submits the information entered in the form by the user -->
 <input type=submit value="Submit form">
 </div>
