@@ -28,7 +28,7 @@
     <input type="password" placeholder="Repeat ka na Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By creating an account you agree to our terms and conditions<a href="#">Terms & Privacy</a>.</p>
+    <p>By creating an account you agree to our terms & Conditions<a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
