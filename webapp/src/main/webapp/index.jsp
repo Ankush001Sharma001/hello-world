@@ -20,8 +20,8 @@
     <input type="text" placeholder="mail id bol na" name="email" id="email" required>
     <br>
     <br>
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <label for="psw"><b>Password bol</b></label>
+    <input type="password" placeholder="bol na Password" name="psw" id="psw" required>
     <br>
     <br>
     <label for="psw-repeat"><b>Repeat Password</b></label>
