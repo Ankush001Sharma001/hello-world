@@ -8,8 +8,8 @@
     <input type="text" placeholder="Enter Full PAPA Name" name="Name" id="Name" required>
     <br>
     <br>
-    <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <label for="Name"><b>bete ka Name</b></label>
+    <input type="text" placeholder="bete ka Full Name" name="Name" id="Name" required>
     <br>
     <br>
     <label for="mobile"><b>Enter mobile</b></label>
